@@ -1,4 +1,4 @@
-# Code demo for "Motion-corrected Fourier ptychography"
+# Motion-corrected Fourier ptychography
 Public release v1.0 (May 18th, 2016)
 
 We propose a novel FP reconstruction method, termed motion-corrected Fourier ptychography (mcFP), to efficiently correct for unknown sample motion. This is crucial for applying the FP scheme to high-resolution endoscopy and transmission electron microscopy. Experimental results show that mcFP can correct for unknown sample motion with its standard deviation being up to 10% of the field-of-view scale.
